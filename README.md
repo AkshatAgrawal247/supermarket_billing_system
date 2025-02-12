@@ -20,6 +20,5 @@ A simple C++ console application for managing supermarket products. It allows ad
 ## File Storage
 - Uses `database.txt` to store product details.
 
-## Author
-Developed by: **Your Name**
+ 
 
